@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\bin\Debug\netcoreapp2.1\JogoXadrez-Console.deps.json
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\bin\Debug\netcoreapp2.1\JogoXadrez-Console.runtimeconfig.json
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\bin\Debug\netcoreapp2.1\JogoXadrez-Console.runtimeconfig.dev.json
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\bin\Debug\netcoreapp2.1\JogoXadrez-Console.dll
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\bin\Debug\netcoreapp2.1\JogoXadrez-Console.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\obj\Debug\netcoreapp2.1\JogoXadrez-Console.csprojAssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\obj\Debug\netcoreapp2.1\JogoXadrez-Console.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\obj\Debug\netcoreapp2.1\JogoXadrez-Console.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\obj\Debug\netcoreapp2.1\JogoXadrez-Console.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\obj\Debug\netcoreapp2.1\JogoXadrez-Console.dll
+C:\Users\samue\OneDrive\Área de Trabalho\JogoXadrez-Console\JogoXadrez-Console\obj\Debug\netcoreapp2.1\JogoXadrez-Console.pdb
